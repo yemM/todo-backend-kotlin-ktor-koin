@@ -1,0 +1,1 @@
+web: build/install/kotlin-ktor-koin/bin/kotlin-ktor-koin
