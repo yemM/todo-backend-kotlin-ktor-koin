@@ -1,7 +1,7 @@
-Ktor-todobackend
+todo-backend-kotlin-ktor-koin
 ====================
 
-A Kotlin Ktor in memory todo backend.
+A Kotlin Ktor with Koin in memory todo backend.
 
 [Reference Specs for Todo-Backend](http://www.todobackend.com/specs/index.html?https://todo-backend-kotlin-ktor-koin.herokuapp.com/)
 
